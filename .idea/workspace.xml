@@ -5,27 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f33f43-212a-4b5b-bb2d-ad9559d9bfaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/This-Task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/DivisibleByThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/MergeTwoSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Mississippi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/NonRepeatingInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/ProductOfElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/SecondLargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Semicolon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/Ventures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/LinkedListMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/MaximumSublist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/PositiveAndNegativeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/RotateByOneIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/SecondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/SecondLargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/World.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,8 +33,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2OQBSXQa3CbDhGkAQSGhqSruhsW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,20 +48,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Semicolon">
-    <configuration name="BinaryToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task.BinaryToDecimal" />
+}</component>
+  <component name="RunManager" selected="Application.MergeTwoSortedList">
+    <configuration name="LinkedListMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.LinkedListMenu" />
       <module name="This-Task" />
       <extension name="coverage">
         <pattern>
@@ -73,6 +81,19 @@
     </configuration>
     <configuration name="MergeTwoSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task.MergeTwoSortedList" />
+      <module name="This-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveAndNegativeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.PositiveAndNegativeValue" />
       <module name="This-Task" />
       <extension name="coverage">
         <pattern>
@@ -110,26 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ventures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task.Ventures" />
-      <module name="This-Task" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTwoSortedList" />
+        <item itemvalue="Application.LinkedListMenu" />
         <item itemvalue="Application.Semicolon" />
         <item itemvalue="Application.ProductOfElement" />
-        <item itemvalue="Application.MergeTwoSortedList" />
-        <item itemvalue="Application.BinaryToDecimal" />
-        <item itemvalue="Application.Ventures" />
+        <item itemvalue="Application.PositiveAndNegativeValue" />
       </list>
     </recent_temporary>
   </component>
@@ -141,11 +149,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681482930840</updated>
-      <workItem from="1681482935372" duration="9002000" />
+      <workItem from="1681482935372" duration="10948000" />
+      <workItem from="1681517963699" duration="5490000" />
+      <workItem from="1681558315994" duration="1099000" />
+      <workItem from="1681559752717" duration="125000" />
+      <workItem from="1681680164855" duration="672000" />
+      <workItem from="1681680864548" duration="2788000" />
+      <workItem from="1681685946122" duration="188000" />
+      <workItem from="1681688303415" duration="746000" />
+      <workItem from="1683337467450" duration="420000" />
+      <workItem from="1686752014286" duration="129000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
 </project>
